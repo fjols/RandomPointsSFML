@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\charlie.charlie-san\source\repos\graph\graph\main.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  graph.vcxproj -> C:\Users\Charlie.CHARLIE-SAN\source\repos\graph\Debug\graph.exe
